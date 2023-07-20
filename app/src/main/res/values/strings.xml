@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes_And_Password_Manager</string>
+    <string name="notes_and_password_manager">Notes And Password Manager</string>
+    <string name="to_edit_text_click_on_notes_to_delete_hold">To Edit Text Click On Notes To Delete Hold</string>
+    <string name="to_delete_hold">To Delete Hold</string>
+    <string name="to_edit_notes_click_on_notes">To Edit Notes Click On Notes</string>
+</resources>
